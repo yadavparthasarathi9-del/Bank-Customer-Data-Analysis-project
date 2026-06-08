@@ -1,5 +1,5 @@
 
-#  Banking Customer Analysis — Data Analytics Project
+#  Banking Customer Data Analysis — Data Analytics Project
 
 
 
