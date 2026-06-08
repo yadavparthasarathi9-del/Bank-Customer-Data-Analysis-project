@@ -1,5 +1,5 @@
-# Bank-Data-Analysis-project
-# 🏦 Banking Customer Analysis — Data Analytics Project
+
+#  Banking Customer Analysis — Data Analytics Project
 
 
 
@@ -225,5 +225,3 @@ The Power BI dashboard (`final_banking_dashboard.pbix`) provides an **interactiv
 🐙 [GitHub Profile URL - https://github.com/yadavparthasarathi9-del]
 
 ---
-
-*This project was developed as part of a Data Analysis portfolio. The dataset used is for educational and analytical purposes.*
